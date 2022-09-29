@@ -1,4 +1,4 @@
-Name: My Country Singapore1
+Name: My Country Singapore
 Description: A simple webpage required as part of the full stack MERN course from MITxPro. 
 Installation: No installation needed.
 Usage: You can download the 2 files and open the html file using browser.
